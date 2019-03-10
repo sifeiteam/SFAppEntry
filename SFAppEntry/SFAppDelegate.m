@@ -9,7 +9,6 @@
 #import "SFAppDelegate.h"
 #import <objc/runtime.h>
 #import <objc/message.h>
-#import <SFComponent/SFComponent.h>
 #import <SFComponent/SFComponentManager.h>
 #import <SFComponent/SFRoute.h>
 
